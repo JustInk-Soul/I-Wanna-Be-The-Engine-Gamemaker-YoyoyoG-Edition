@@ -1,0 +1,11 @@
+visible=false;
+image_speed=0;
+killer=false;
+spro = 6;
+scm = 2;
+trg = 8;
+trv = true;
+trk = true;
+ysp = 3;
+yspd = 5;
+h = 8;
