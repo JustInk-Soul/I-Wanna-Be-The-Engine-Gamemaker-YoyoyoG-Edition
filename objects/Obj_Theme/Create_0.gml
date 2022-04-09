@@ -1,0 +1,11 @@
+_sprite[THEME_SPRITE.BLOCK]=Spr_MetalBlock;
+_sprite[THEME_SPRITE.SPIKE_LEFT]=Spr_SpikeLeft;
+_sprite[THEME_SPRITE.SPIKE_RIGHT]=Spr_SpikeRight;
+_sprite[THEME_SPRITE.SPIKE_UP]=Spr_SpikeUp;
+_sprite[THEME_SPRITE.SPIKE_DOWN]=Spr_SpikeDown;
+_sprite[THEME_SPRITE.CHERRY]=Spr_Cherry;
+_sprite[THEME_SPRITE.MINI_SPIKE_LEFT]=Spr_MiniSpikeLeft;
+_sprite[THEME_SPRITE.MINI_SPIKE_RIGHT]=Spr_MiniSpikeRight;
+_sprite[THEME_SPRITE.MINI_SPIKE_UP]=Spr_MiniSpikeUp;
+_sprite[THEME_SPRITE.MINI_SPIKE_DOWN]=Spr_MiniSpikeDown;
+global.theme = id._sprite;
