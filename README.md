@@ -1,9 +1,9 @@
 # About
-This project does not belong to me.
+I not own this project.
 
 I just modified engine.
 
 If you want a better trigger system.You can try this.
 
 # Other
-In fact, I modified this because Nikaple Engine is not suitable for GameMaker(Not GameMaker Classic!).
+I modified this because Nikaple Engine not work for GameMaker(Gamemaker Studio 2.3. Not GameMaker Classic).
