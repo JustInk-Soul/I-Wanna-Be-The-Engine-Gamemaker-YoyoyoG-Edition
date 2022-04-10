@@ -1,3 +1,5 @@
+[简体中文](https://github.com/JustInk-Soul/I-Wanna-Be-The-Engine-Gamemaker-YoyoyoG-Edition/blob/main/readme_cn.md)|English
+
 # About
 I not own this project.
 
